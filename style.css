@@ -1,0 +1,88 @@
+td 
+{
+    width: 5%;
+   height: 10dvb;
+   background-color: #A0A0A0;
+   text-align: center;
+}
+
+.borda
+{
+    border-color: #7541A6;
+}
+
+.largura
+{
+    width: 1000px;;
+    
+}
+
+.escrita
+{
+    color: #7541A6;
+    font-size: 15px;
+}
+
+.escrita3
+{
+    font-size: 30px;
+    text-align: left;
+    color: #7541A6;
+}
+
+.escrita4
+{
+    font-size: 23px;
+    text-align: left;
+    font-style:normal;
+    color: #7541A6;
+}
+
+.imagemni
+{
+    text-align: left;
+    font-size: 80px;
+    color : #7541A6
+}
+
+.sobre
+{
+    text-align: left;
+    font-size: 60px;
+    color: #7541A6;
+}
+
+#topico
+{
+    font-size: 60px;
+    color: #7541A6;
+    text-align: left;
+}
+
+.topico2
+{
+    font-size: 45px;
+    color: #7541A6;
+    text-align: left;
+}
+
+.topico3
+{
+    color: white;
+}
+
+.seinao
+{
+    text-align: left;
+}
+
+.seinao2
+{
+    text-align: right;
+}
+
+.monitor
+{
+    text-align: center;
+    width: 100px;
+}
